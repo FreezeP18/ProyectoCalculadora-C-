@@ -1,0 +1,39 @@
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\SESION-3-APLICACION_ESCRITORIO\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\bin\Debug\BLL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\bin\Debug\BLL.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\bin\Debug\BLL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\bin\Debug\BLL.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Form1.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Properties.Resources.resources
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.CopyComplete
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.exe
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 6\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.pdb

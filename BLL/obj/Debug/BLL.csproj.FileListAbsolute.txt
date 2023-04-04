@@ -1,0 +1,6 @@
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\BLL\bin\Debug\BLL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\BLL\bin\Debug\BLL.pdb
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\BLL\obj\Debug\BLL.dll
+C:\Users\sebas\OneDrive\Escritorio\Progra 2\Sesion 5\AppCalculadora\BLL\obj\Debug\BLL.pdb
